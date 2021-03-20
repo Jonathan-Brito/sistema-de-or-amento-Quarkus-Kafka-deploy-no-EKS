@@ -1,6 +1,6 @@
 ## About CQRS - Command Query Responsibility Segregation
 
-According with [Martin Folwer](https://martinfowler.com/bliki/CQRS.html) 
+According with [Jonathan Brito] 
 > At its heart is the notion that you can use a different model to update information than the model you use to read information. 
 > For some situations, this separation can be valuable, but beware that for most systems CQRS adds risky complexity.
 
@@ -40,4 +40,4 @@ k6 run --vus 10 --duration 60s performance-tests/expense.js
 ````
 
 ### Contributing
-I'd love to have a frontend for it! [Please reach me out if you got interested](MailTo:wesley.fuchter@gmail.com)
+I'd love to have a frontend for it! [Please reach me out if you got interested](MailTo:devjonathanbrito@gmail.com)
